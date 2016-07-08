@@ -21,7 +21,7 @@ if(max>n2)
   {
   printf("%d is largest",&n3);
   }
- }
+ 
 }
 
    
